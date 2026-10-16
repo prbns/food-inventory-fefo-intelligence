@@ -1,0 +1,26 @@
+lot_id,sku_code,product_name,category,storage_location,reception_date,expiration_date,stock_quantity,unit_cost,quality_status
+LOT-2026-001,ING-0101,Pasteurized Whole Milk,Dairy,Cold Room 1,2026-09-10,2026-10-15,2400,0.85,Approved
+LOT-2026-002,ING-0101,Pasteurized Whole Milk,Dairy,Cold Room 1,2026-09-12,2026-10-18,1200,0.85,Approved
+LOT-2026-003,ING-0102,Heavy Cream 35% Fat,Dairy,Cold Room 1,2026-08-20,2026-10-05,850,3.2,Approved
+LOT-2026-004,ING-0201,Fresh Liquid Whole Egg,Egg Products,Cold Room 2,2026-09-25,2026-10-12,1500,2.1,Approved
+LOT-2026-005,ING-0201,Fresh Liquid Whole Egg,Egg Products,Cold Room 2,2026-09-28,2026-10-22,900,2.1,Approved
+LOT-2026-006,ING-0301,Frozen Strawberry Puree,Frozen Fruits,Freezer -18C,2026-03-15,2027-03-15,4500,1.95,Approved
+LOT-2026-007,ING-0302,Frozen Mango Dices,Frozen Fruits,Freezer -18C,2026-04-10,2027-04-10,3200,2.4,Approved
+LOT-2026-008,ING-0401,Refined White Sugar,Dry Ingredients,Dry Silo A,2026-01-10,2028-01-10,12000,0.75,Approved
+LOT-2026-009,ING-0402,Wheat Flour Type 55,Dry Ingredients,Dry Warehouse,2026-05-12,2026-11-12,8000,0.62,Approved
+LOT-2026-010,ING-0501,Sodium Benzoate E-211,Additives,Dry Warehouse,2025-11-01,2027-11-01,500,4.5,Approved
+LOT-2026-011,ING-0502,Citric Acid Anhydrous,Additives,Dry Warehouse,2026-02-15,2028-02-15,750,2.8,Approved
+LOT-2026-012,ING-0103,Fresh Mozzarella Curd,Dairy,Cold Room 1,2026-09-20,2026-10-11,600,4.1,Quarantine
+LOT-2026-013,ING-0101,Pasteurized Whole Milk,Dairy,Cold Room 1,2026-09-15,2026-10-25,1800,0.85,Approved
+LOT-2026-014,ING-0601,Liquid Cocoa Mass,Chocolates,Heated Tank,2026-07-01,2027-01-01,2500,5.6,Approved
+LOT-2026-015,ING-0201,Fresh Liquid Whole Egg,Egg Products,Cold Room 2,2026-10-01,2026-10-26,1100,2.1,Approved
+LOT-2026-016,ING-0701,Natural Vanilla Extract,Flavors,Safety Cabinet,2025-06-10,2026-12-10,120,45.0,Approved
+LOT-2026-017,ING-0102,Heavy Cream 35% Fat,Dairy,Cold Room 1,2026-09-18,2026-11-02,1400,3.2,Approved
+LOT-2026-018,ING-0402,Wheat Flour Type 55,Dry Ingredients,Dry Warehouse,2026-06-01,2026-12-01,6500,0.62,Approved
+LOT-2026-019,ING-0301,Frozen Strawberry Puree,Frozen Fruits,Freezer -18C,2026-05-20,2027-05-20,2100,1.95,Approved
+LOT-2026-020,ING-0503,Pectin High Methoxyl,Additives,Dry Warehouse,2025-10-05,2026-10-20,300,14.2,Approved
+LOT-2026-021,ING-0104,Yogurt Base 3.5%,Dairy,Cold Room 1,2026-09-22,2026-10-16,3100,1.15,Approved
+LOT-2026-022,PKG-0101,Corrugated Outer Box 24x,Packaging,Packaging Warehouse,2026-01-15,2029-01-15,5000,0.45,Approved
+LOT-2026-023,PKG-0102,PET Bottles 1000ml,Packaging,Packaging Warehouse,2026-03-01,2029-03-01,15000,0.18,Approved
+LOT-2026-024,ING-0101,Pasteurized Whole Milk,Dairy,Cold Room 1,2026-09-30,2026-11-05,4000,0.85,Approved
+LOT-2026-025,ING-0105,Salted Butter Blocks,Dairy,Cold Room 1,2026-08-10,2026-10-08,1200,5.8,Blocked
